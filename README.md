@@ -1,6 +1,6 @@
 # CO1 - Personal Profile Website
-## NAME : Sukhmeet Kaur G
-## REG NO : 2305001032
+### NAME : Sukhmeet Kaur G
+### REG NO : 2305001032
 ## Project Description
 A static personal profile website developed using HTML and CSS.
 
