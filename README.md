@@ -20,6 +20,6 @@ Sukhmeet Kaur
 ## Purpose
 Created as part of the skill assessment.
 
-## Live Website Link (GitHub Pages):
+## Live Website Link (GitHub):
 https://sukhmeet20.github.io/MWD-CO1-Sukhmeet-/
 
