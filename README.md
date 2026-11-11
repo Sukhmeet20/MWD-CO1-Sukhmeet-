@@ -1,4 +1,6 @@
 # CO1 - Personal Profile Website
+## NAME : Sukhmeet Kaur G
+## REG NO : 2305001032
 ## Project Description
 A static personal profile website developed using HTML and CSS.
 
@@ -17,3 +19,7 @@ Sukhmeet Kaur
 
 ## Purpose
 Created as part of the skill assessment.
+
+## Live Website Link (GitHub Pages):
+https://sukhmeet20.github.io/MWD-CO1-Sukhmeet-/
+
