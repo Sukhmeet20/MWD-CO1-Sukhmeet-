@@ -13,6 +13,12 @@ A static personal profile website developed using HTML and CSS.
 - Educational details
 - Technical skills
 - Contact information
+- 
+## Project Structure
+
+index.html – Contains the structure and content of the website.
+
+style.css – Contains the styling and layout of the website.
 
 ## Author
 Sukhmeet Kaur
